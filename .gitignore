@@ -1,0 +1,6 @@
+
+*.exe
+*.stackdump
+*.gds
+*.gdt
+*.ofinfo
